@@ -2,6 +2,8 @@
 
 Numerical methods tend to be implemented in order to improve accuracy, being necessary to solve propagation problems applied to calculate electromagnetic fields.
 
+I've used via Matlab some features in order to make this calculation in three differents methods using the same indoor environment. 
+
 ### Finite differences time domain method (FDTD)
 
 Finite differences time domain method (FDTD) is used as solution electromagnetic problems to simulate radio wave propagation in fields us which doesn't present uniform characteristics and the analytical analysis is not efficient, the calculation base is referenced on Maxwell‟s equations discretized in time and space.
@@ -13,3 +15,4 @@ The 2D approach uses the beginning of the Geometrical Optics (GO) for the determ
 ### Hybrid Method
 
 A simple hybrid computational model was developed based on the combination the Ray Tracing and FDTD (Finite-difference time-domain) for the calculation of electromagnetic fields in indoor areas
+
